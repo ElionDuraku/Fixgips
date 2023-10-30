@@ -66,12 +66,12 @@ a,
 .subscribe-form .form-group input[type="submit"], .subscribe-form button,
 .news-block-two .inner-box .content-column .content-box h3 a:hover,
 .news-block-two .inner-box .content-column .content-box .options li a:hover{
-	color:#fbb908;
+	color:#0093A8;
 }
 
 .sticky-header .main-menu .navigation > li:hover > a,
 .sticky-header .main-menu .navigation > li.current > a{
-	color:#fbb908 !important;
+	color:#0093A8 !important;
 }
 
 /*Background Color*/
@@ -119,7 +119,7 @@ a,
 .range-slider-one .ui-widget-content .ui-state-default,
 .shop-item .inner-box .image .overlay-box .cart-option li a:hover,
 .gallery-item .inner-box .image-box .overlay-box .overlay-inner ul li a:hover{
-	background-color:#fbb908;
+	background-color:#0093A8;
 }
 
 /*Border Color*/
@@ -190,14 +190,14 @@ a,
 .shipping-form .form-group textarea:focus,
 .checkout-form input:focus, .checkout-form select:focus, .checkout-form textarea:focus,
 .solution-box-two .inner .solution-btn{
-	border-color:#fbb908;
+	border-color:#0093A8;
 }
 
 /*Border Bottom Color*/
 
 .payment-box .payment-options li .radio-option label .small-text:before,
 .testimonial-block-two .inner-box .upper-box .quote-icon:before{
-	border-bottom-color:#fbb908;
+	border-bottom-color:#0093A8;
 }
 
 /*RGBA Color Light*/
@@ -212,7 +212,7 @@ a,
 @media only screen and (max-width: 767px){
 	
 	.main-menu .navbar-header .navbar-toggle{
-		border-color:#fbb908;
+		border-color:#0093A8;
 	}
 	
 	.main-menu .navbar-header .navbar-toggle,
@@ -231,7 +231,7 @@ a,
 	.main-menu .navbar-collapse > .navigation > li.current > a,
 	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a,
 	.header-style-two.inner-header .main-menu .navigation > li > a{
-		background-color:#fbb908;
+		background-color:#0093A8;
 	}
 	
 }
